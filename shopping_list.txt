@@ -2,3 +2,5 @@ shopping list
 
 cereal
 bananas
+milk
+teabags
