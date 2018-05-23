@@ -4,3 +4,5 @@ cereal
 bananas
 milk
 teabags
+cheese
+biscuits
