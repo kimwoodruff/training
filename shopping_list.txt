@@ -6,3 +6,5 @@ cake
 milk
 bread
 teabags
+cheese
+biscuits
