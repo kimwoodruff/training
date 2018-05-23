@@ -2,5 +2,7 @@ shopping list
 
 cereal
 bananas
+cake
 milk
+bread
 teabags
